@@ -1,2 +1,2 @@
 # sample-ripo
-GIT練習用
+kousin練習用
